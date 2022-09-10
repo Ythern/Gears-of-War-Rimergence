@@ -6,7 +6,7 @@
         <label>lancer MKII</label>
         <description>Placeholder</description>
         <graphicData>
-            <texPath>Things/Item/Equipment/WeaponRanged/SE_WildfireSMG</texPath>
+            <texPath>Things/Item/Equipment/WeaponRanged/ChargeRifle</texPath>
             <graphicClass>Graphic_Single</graphicClass>
         </graphicData>
         <techLevel>Spacer</techLevel>
@@ -50,7 +50,7 @@
             <li>
               <label>chainsaw bayonet</label>
               <capacities>
-                <li>Piercing</li>
+                <li>Cut</li>
               </capacities>
               <power>24</power>
               <cooldownTime>3</cooldownTime>
@@ -94,7 +94,7 @@
         <label>retro lancer</label>
         <description>Placeholder</description>
         <graphicData>
-            <texPath>Things/Item/Equipment/WeaponRanged/SE_WildfireSMG</texPath>
+            <texPath>Things/Item/Equipment/WeaponRanged/ChargeRifle</texPath>
             <graphicClass>Graphic_Single</graphicClass>
         </graphicData>
         <techLevel>Spacer</techLevel>
@@ -138,7 +138,7 @@
             <li>
               <label>bayonet</label>
               <capacities>
-                <li>Piercing</li>
+                <li>Cut</li>
               </capacities>
               <power>12</power>
               <cooldownTime>1.8</cooldownTime>
@@ -182,7 +182,7 @@
         <label>gnasher shotgun</label>
         <description>Placeholder</description>
         <graphicData>
-            <texPath>Things/Item/Equipment/WeaponRanged/SE_WildfireSMG</texPath>
+            <texPath>Things/Item/Equipment/WeaponRanged/ChargeRifle</texPath>
             <graphicClass>Graphic_Single</graphicClass>
         </graphicData>
         <techLevel>Spacer</techLevel>
@@ -278,7 +278,7 @@
         <label>longshot sniper rifle</label>
         <description>Placeholder</description>
         <graphicData>
-            <texPath>Things/Item/Equipment/WeaponRanged/SE_WildfireSMG</texPath>
+            <texPath>Things/Item/Equipment/WeaponRanged/ChargeRifle</texPath>
             <graphicClass>Graphic_Single</graphicClass>
         </graphicData>
         <techLevel>Spacer</techLevel>
@@ -365,7 +365,7 @@
         <label>MX8 snub pistol</label>
         <description>Placeholder</description>
         <graphicData>
-            <texPath>Things/Item/Equipment/WeaponRanged/SE_WildfireSMG</texPath>
+            <texPath>Things/Item/Equipment/WeaponRanged/ChargeRifle</texPath>
             <graphicClass>Graphic_Single</graphicClass>
         </graphicData>
         <techLevel>Spacer</techLevel>
@@ -452,7 +452,7 @@
         <label>mulcher</label>
         <description>Placeholder</description>
         <graphicData>
-            <texPath>Things/Item/Equipment/WeaponRanged/SE_WildfireSMG</texPath>
+            <texPath>Things/Item/Equipment/WeaponRanged/ChargeRifle</texPath>
             <graphicClass>Graphic_Single</graphicClass>
         </graphicData>
         <techLevel>Spacer</techLevel>
